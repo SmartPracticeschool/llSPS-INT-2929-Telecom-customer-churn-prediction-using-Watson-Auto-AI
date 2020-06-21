@@ -1,0 +1,2 @@
+
+https://node-red-ofgju.eu-gb.mybluemix.net/ui
